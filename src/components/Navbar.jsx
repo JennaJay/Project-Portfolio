@@ -10,7 +10,7 @@ return (
             <li><Link to="/">About</Link></li>
             <li><Link to="portfolio">Portfolio</Link></li>
             <li><Link to="contact">Contact</Link></li>
-            {/* <li><Link to="Resume">Resume</a></li> */}
+            <li><Link to="Resume">Resume</Link></li>
         </ul>               
     </div>
    

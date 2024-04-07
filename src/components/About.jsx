@@ -2,7 +2,7 @@
 const About = () => (
 <>
 <h2 className="first">About Me</h2>
-<p className="graph">This is my first coding bootcamp and I'm still trying to figure this out. I need to make links and create grid or flex boxes for all my fake work. I'm going to have to re-watch the zoom classes to make this stuff happen Is there a bootcamp for special people?</p>
+<p className="graph">This is my first coding bootcamp and I'm still trying to figure this out. This portfolio is a screen shot of the last 6 months. I will be linking some of my challenges that I've completed throughout the course. I've learned a lot about Web Development, and I'm looking forward to practicing my skills. </p>
 </>
 )
 
